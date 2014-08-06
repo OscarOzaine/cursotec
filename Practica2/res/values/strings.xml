@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica2</string>
+    <string name="change_text">Texto a cambiar</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_text_button">Cambiar texto</string>
+    <string name="ok_text">Ok</string>
+    <string name="cancel_text">Cancelar</string>
+
+</resources>
