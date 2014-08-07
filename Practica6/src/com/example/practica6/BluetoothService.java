@@ -24,7 +24,7 @@ import android.util.Log;
 public class BluetoothService {
 
     // Name for the SDP record when creating server socket
-    private static final String NAME = "BluIno";
+    private static final String NAME = "BluetoothChat";
 
     // Unique UUID for this application - ORIGINAL
     //private static final UUID MY_UUID = UUID.fromString("fa87c0d0-afac-11de-8a39-0800200c9a66");
