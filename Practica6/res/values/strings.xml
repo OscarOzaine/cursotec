@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">Acerca De</string>
+    <string name="bluetooth">Bluetooth</string>
+    
+    <string name="bt_detectable">Detectable</string>
+    <string name="bt_search">Buscar Dispositivos</string>
+    <string name="bt_paired">Ver dispositivos emparejados</string>
+    
+    <string name="no_devices">No se encontraron dispositivos</string>
+    <string name="bt_searchfinished">La busqueda termino</string>
+    <string name="btn_discovery">Buscar dispositivos</string>
+    
+    
+    <string name="help_description">Para ayuda sobre esta app de aprendizaje contactar a oscar.ozaine@gmail.com</string>
+
+    <string name="ok_text">Ok</string>
+    <string name="cancel_text">Cancelar</string>
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.practica4.MainActivity" >
+
+    <item android:id="@+id/action_btDetectable"
+          android:title="@string/bt_detectable"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_btSearch"
+          android:title="@string/bt_search"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_btPaired"
+          android:title="@string/bt_paired"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_about"
+          android:title="@string/about"
+          android:showAsAction="ifRoom" />
+
+</menu>
+
