@@ -1,4 +1,4 @@
-cursotec
+ITM Course
 ========
 
-basic apps for Android
+Basic Apps for Android
